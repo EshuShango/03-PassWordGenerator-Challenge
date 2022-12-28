@@ -1,4 +1,4 @@
-git// object using shorthand keys
+// object using shorthand keys
 
 const genFuncs = {
   randomLowCase,
