@@ -1,6 +1,6 @@
 # JavaScript: Password Generator
 
-
+  [PassWord Generator site](https://eshushango.github.io/03-PassWordGenerator-Challenge/)
 ![The Password Generator application displays a red button to "Generate Password".](./Assets/passwordGen.png)
 
 ## Description
